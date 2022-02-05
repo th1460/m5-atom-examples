@@ -125,3 +125,7 @@ while True:
     # Socket close()
     conn.close()
 ```
+
+## References
+1. Led https://www.youtube.com/watch?v=_HfETjIYdig
+2. Web Server https://techtotinker.blogspot.com/2020/10/015-esp32-micropython-web-server-esp32.html
