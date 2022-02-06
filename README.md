@@ -2,6 +2,8 @@
 
 ## Install firmware
 
+To download the firmware: https://micropython.org/download/esp32/
+
 ```
 # Install esptool
 pip3 install esptool
